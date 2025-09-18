@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header" />
 </p>
 <h1 align="center">Hi 👋, I'm KARTHIGEYAN B </h1>
