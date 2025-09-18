@@ -56,14 +56,14 @@ Multi-speciality hospital website with **doctor listing, appointment booking, an
 ### 🏆 Achievements
 - ✅ Solved **400+ LeetCode problems** (Data Structures & Algorithms).  
 - 🎓 Earned **4 Udemy Certifications**:
-  - [Python Programming](https://www.udemy.com/certificate/)  
-  - [OOP in Java](https://www.udemy.com/certificate/)  
-  - [MySQL Database](https://www.udemy.com/certificate/)  
-  - [JavaScript Essentials](https://www.udemy.com/certificate/)  
+  - [Python Programming](https://www.udemy.com/certificate/UC-2c0046d7-20b7-4e60-be34-d5a2dded4046/)  
+  - [OOP in Java](https://www.udemy.com/certificate/UC-314653f3-faf7-45c6-bf8f-41958b60fde2/)  
+  - [MySQL Database](https://www.udemy.com/certificate/UC-0de509c8-b1b3-43f7-a06b-d07194def47a/)  
+  - [JavaScript Essentials](https://www.udemy.com/certificate/UC-05a95b0d-baa6-441d-9f17-e6b5598dc41d/)  
 
 ---
 
-### 📊 Profiles### 📊 Profiles
+### 📊 Profiles
 - 🟠 **LeetCode**: [My LeetCode Profile](https://leetcode.com/your-username/)  
 - 🟠 **GeeksForGeeks**: [My GFG Profile](https://www.geeksforgeeks.org/user/karthigeyanbalagsrm/)  
   
@@ -76,6 +76,6 @@ Multi-speciality hospital website with **doctor listing, appointment booking, an
   <a href="mailto:karthigeyanb.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/KARTHIGEYAN10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
+<p align="center">Code Create Contribute</p>
 <!-- Bottom glossy wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer" width="100%"/>
