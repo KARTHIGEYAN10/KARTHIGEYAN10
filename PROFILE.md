@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Your Name</h1>
+<h1 align="left">Hi 👋, I'm karthigeyan B</h1>
 <p align="left">Fullstack developer • Java • Python • MERN • Building healthcare & web apps</p>
 
 <p>
@@ -10,8 +10,8 @@
 ---
 
 ### ⭐ About me
-- Final year IT student / Intern at StartupName.
-- Interested in web dev, computer vision & scalable systems.
+- Final year IT student.
+- Interested in Software Development.
 
 ### 🛠️ Tech stack
 Java • Python • React • Node.js • MongoDB • SQL • Docker
