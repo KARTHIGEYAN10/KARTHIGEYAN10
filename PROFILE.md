@@ -76,6 +76,6 @@ Multi-speciality hospital website with **doctor listing, appointment booking, an
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/karthigeyan-b-3654b731b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:karthigeyanb.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto: karthigeyanb.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/KARTHIGEYAN10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
