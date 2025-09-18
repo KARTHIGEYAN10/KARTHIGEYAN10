@@ -1,7 +1,7 @@
 <!-- Top glossy wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm KARTHIGEYAN B </h1>
+<h1 align="center">Hi, I'm KARTHIGEYAN B </h1>
 <h3 align="center">🚀 Fullstack Developer | Aspiring Software Engineer</h3>
 
 <p align="center">
@@ -63,9 +63,10 @@ Multi-speciality hospital website with **doctor listing, appointment booking, an
 
 ---
 
-### 📊 Profiles
+### 📊 Profiles### 📊 Profiles
 - 🟠 **LeetCode**: [My LeetCode Profile](https://leetcode.com/your-username/)  
-- 🎓 **Udemy**: [My Udemy Certifications](https://www.udemy.com/user/your-username/)  
+- 🟠 **GeeksForGeeks**: [My GFG Profile](https://www.geeksforgeeks.org/user/karthigeyanbalagsrm/)  
+  
 
 ---
 
