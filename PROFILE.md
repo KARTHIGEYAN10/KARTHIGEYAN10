@@ -76,6 +76,9 @@ Multi-speciality hospital website with **doctor listing, appointment booking, an
   <a href="mailto:karthigeyanb.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/KARTHIGEYAN10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-<p align="center">Code Create Contribute</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2A5298&center=true&vCenter=true&width=435&lines=✨+Code+•+Create+•+Contribute+✨" alt="Typing SVG" />
+</p>
+
 <!-- Bottom glossy wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer" width="100%"/>
