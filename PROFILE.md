@@ -1,6 +1,6 @@
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header" />
-</p>
+<!-- Top glossy wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm KARTHIGEYAN B </h1>
 <h3 align="center">🚀 Fullstack Developer | Aspiring Software Engineer</h3>
 
@@ -76,7 +76,5 @@ Multi-speciality hospital website with **doctor listing, appointment booking, an
   <a href="https://github.com/KARTHIGEYAN10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header" />
-</p>
+<!-- Bottom glossy wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer" width="100%"/>
