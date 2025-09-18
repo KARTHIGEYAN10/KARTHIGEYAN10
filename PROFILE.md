@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm KARTHIGEYAN B </h1>
 <h3 align="center">🚀 Fullstack Developer | Aspiring Software Engineer</h3>
 
 <p align="center">
@@ -38,15 +38,15 @@
 ### 📌 Projects
 #### 🍴 Cloud Kitchen Management System
 MERN stack app to manage **food ordering, cart, and purchases** with admin dashboard.  
-[🔗 Repo Link](#)
+[🔗https://github.com/KARTHIGEYAN10/CARLZ-HOSPITAL](#)
 
 #### 💬 Real-time Chat Messaging Application
 Built with **React, Node.js, Socket.io, and MongoDB** for real-time communication.  
-[🔗 Repo Link](#)
+[🔗 https://github.com/KARTHIGEYAN10/MESSAGING-APP-WEB-](#)
 
 #### 🏥 Hospital Management & Services Website
 Multi-speciality hospital website with **doctor listing, appointment booking, and authentication**.  
-[🔗 Repo Link](#)
+[🔗 https://github.com/KARTHIGEYAN10/Cloud-kitchen-management](#)
 
 ---
 
@@ -68,10 +68,14 @@ Multi-speciality hospital website with **doctor listing, appointment booking, an
 </p>
 
 ---
+### 🏅 GitHub Achievements
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.png" width="100" alt="Pull Shark Badge" />
+</p>
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/karthigeyan-b-3654b731b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:karthigeyanb.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/KARTHIGEYAN10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
