@@ -60,18 +60,19 @@ Multi-speciality hospital website with **doctor listing, appointment booking, an
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KARTHIGEYAN10&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KARTHIGEYAN10&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTHIGEYAN10&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthigeyan10&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=karthigeyan10&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthigeyan10&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
+
 ### 🏅 GitHub Achievements
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/badge/pull-shark-default.png" width="100" alt="Pull Shark Badge" />
 </p>
+
 
 ### 🤝 Connect with Me
 <p align="left">
